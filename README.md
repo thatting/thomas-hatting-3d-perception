@@ -1,4 +1,4 @@
-# thomas-hatting-3d-perception
+# Project 3D Perception
 
 PROJECT LICENSE
 
